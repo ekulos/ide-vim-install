@@ -3,10 +3,9 @@ Easy environment setup for Vim addicts.
 
 ## Install
 
-<pre>
+```
 wget https://raw.githubusercontent.com/xlucas/go-vim-install/master/install.sh
 chmod +x install.sh
-</pre>
 ```
 ## Usage
 
